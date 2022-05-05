@@ -147,4 +147,3 @@ deploy:
   repo: git@github.com:solar-z/solar-z.github.io.git
   branch: main
   ignore_hidden: false
-- type: baidu_url_submitter
