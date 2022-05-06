@@ -141,6 +141,13 @@ hexo_seo_autopush:
     date: created
     count: 10
 
+markdown:
+  plugins:
+    - plugin:
+      name: '@neilsustc/markdown-it-katex'
+      options:
+        strict: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
