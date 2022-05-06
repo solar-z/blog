@@ -11,7 +11,7 @@ tags:
 
 # Trie树：Leetcode 最短的单词编码
 
-Link: [https://leetcode-cn.com/problems/iSwD2y/]()
+Link: [https://leetcode-cn.com/problems/iSwD2y/](https://leetcode-cn.com/problems/iSwD2y/)
 
 题目要求计算所有不为其他单词后缀的单词长度之和（加上#）。考虑使用Trie树，将字符串反向插入。
 
