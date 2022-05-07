@@ -41,6 +41,8 @@ jobs:
       - name: Get Baidu Token
         env:
           BAIDU_TOKEN: ${{ secrets.BAIDU_TOKEN }}
+          GITALK_TOKEN: ${{ secrets.GITALK_TOKEN }}
+          GITALKID: ${{ secrets.GITALKID }}
         run: python ./getBaiduToken.py
       - name: Deploy hexo
         run: |
