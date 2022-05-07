@@ -1,5 +1,5 @@
 ---
-title: 归并+分治：Leetcode 327 区间和的个数
+title: bfs：Leetcode 433 最小基因变化
 date: 2022/5/8 01:14:00
 author: solar-
 categories: 
