@@ -1,5 +1,7 @@
 import os
 
+print(os.environ)
+
 baiduToken = os.environ["BAIDU_TOKEN"]
 with open('./_config.yml','+r') as f:
     t = f.read()
