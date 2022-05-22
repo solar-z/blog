@@ -85,10 +85,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/solar-z/cdn/backgroundbig.jpg
+index_img: https://raw.githubusercontent.com/solar-z/cdn/main/backgroundbig.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://cdn.jsdelivr.net/gh/solar-z/cdn/backgroundbig.jpg
+default_top_img: https://raw.githubusercontent.com/solar-z/cdn/main/backgroundbig.jpg
 
 # The banner image of archive page
 archive_img: https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/archive.jpg
@@ -121,28 +121,28 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover: # https://cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/top_img/default.png
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/1.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/2.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/3.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/4.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/5.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/6.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/7.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/8.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/9.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/10.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/11.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/12.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/13.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/14.png
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/15.png
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/16.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/17.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/18.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/19.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/20.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/21.jpg
-    - https://cdn.jsdelivr.net/gh/solar-z/cdn/22.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/1.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/2.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/3.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/4.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/5.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/6.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/7.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/8.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/9.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/10.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/11.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/12.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/13.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/14.png
+    - https://raw.githubusercontent.com/solar-z/cdn/main/15.png
+    - https://raw.githubusercontent.com/solar-z/cdn/main/16.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/17.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/18.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/19.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/20.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/21.jpg
+    - https://raw.githubusercontent.com/solar-z/cdn/main/22.jpg
     
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
